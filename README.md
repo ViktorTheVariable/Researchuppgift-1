@@ -33,7 +33,7 @@
 | sort | Sorterar raderna på en fil  |
 | tr | Översätter tecken i en fil |
 
-https://medium.com/@prasku/basic-terminal-commands-ce5790c20107
+Källa: https://medium.com/@prasku/basic-terminal-commands-ce5790c20107
 
 ##### Exempel:
 
