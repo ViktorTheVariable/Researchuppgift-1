@@ -84,3 +84,5 @@ Källa: https://git-scm.com/docs/git#_git_commands
 
 Källa: https://www.markdownguide.org/cheat-sheet/
 
+---
+*Viktor Ekström*
